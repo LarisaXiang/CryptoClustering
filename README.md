@@ -56,5 +56,5 @@ Add the "coin_id" column in the hover_cols parameter to identify the cryptocurre
 Create a composite plot by using hvPlot and the plus sign (+) operator to compare the elbow curve that created from the original data with the one that created from the PCA data. 
 Create a composite plot by using hvPlot and the plus (+) operator to compare the cryptocurrency clusters that resulted from using the original data with those that resulted from the PCA data. 
 
-![Alt text](elbow_plot.png)
-![Alt text](cluster_plot.png)
+![Alt text](elbow_plot.png) ![Alt text](bokeh_plot.png)
+![Alt text](bokeh1_plot.png)![Alt text](cluster_plot.png) 
